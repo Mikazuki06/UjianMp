@@ -1,0 +1,7 @@
+{
+  "name": "UJI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
